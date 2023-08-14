@@ -23,7 +23,12 @@ I have experience testing APIs with Postman, making requests to SQL databases, a
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" title="Cypress" alt="Cypress" width="80" height="40"/>
 </p>
-
+<h3> Let's get in touch! </h3>
+<p>
+<a href= "https://www.linkedin.com/in/daria-dzhadaeva/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="40" height="40" alt="linkedin"/></a>
+&nbsp;
+<a href= "mailto:daria.dzhadaeva@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="40" height="40" alt="gmail"/></a>
+</p>
 
 
 
