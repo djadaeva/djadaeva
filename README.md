@@ -1,9 +1,9 @@
-### Hi there 👋
+<h2> Hi there 👋</h2>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdpZmt6cXM2ZmFjdDIybjE1YWJ3NXc4dDJycHhrZmYxZDBwcjhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" align="right" width="200px" />
 <p>Hello, I’m a manual QA engineer.
 I have experience testing APIs with Postman, making requests to SQL databases, and using Charles to capture traffic for testing mobile applications. Also, I have some experience with HTML, CSS, and JavaScript.</p>
 
-<h2>Some Tools I Use</h2>
+<h2 align="center">Technology stack</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
 <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>
