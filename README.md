@@ -14,7 +14,7 @@ I have experience testing APIs with Postman, making requests to SQL databases, a
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="postman" alt="postman" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
-<img src="https://scontent.fnic1-2.fna.fbcdn.net/v/t39.30808-6/302566861_403605171884425_5386148225345855980_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=300f58&_nc_ohc=ihnkBzxCT1AAX83rMsP&_nc_ht=scontent.fnic1-2.fna&oh=00_AfAawDLUs72jZE9tYzpeO6iYO8BoRyjiXTZzWrGfbBzEew&oe=64DEA885" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
